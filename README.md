@@ -48,6 +48,10 @@
 - **Python Programming** - GeeksforGeeks (Dec 2024)
   [View Certification](https://media.geeksforgeeks.org/courses/certificates/9f4bb37f609788377bb46f558fb73fd8.pdf)
 
+### 📄 View My Resume
+
+[![View Resume](https://img.shields.io/badge/View-Resume-blue)](Divyanka_Barnwal_Resume.pdf)
+
 ### 📈 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Divyanka-20&show_icons=true&theme=radical" alt="Divyanka's GitHub stats" />
