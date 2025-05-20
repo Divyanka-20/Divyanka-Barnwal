@@ -49,8 +49,10 @@
   [View Certification](https://media.geeksforgeeks.org/courses/certificates/9f4bb37f609788377bb46f558fb73fd8.pdf)
 
 ### 📄 View My Resume
+<a href="Divyanka_Barnwal_Resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=red" alt="View Resume">
+</a>
 
-[![View Resume](https://img.shields.io/badge/View-Resume-blue)](Divyanka_Barnwal_Resume.pdf)
 
 ### 📈 GitHub Stats
 <p align="left">
