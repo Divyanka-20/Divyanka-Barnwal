@@ -11,10 +11,10 @@
 -  **Contributed to web development projects using PHP, JavaScript, and MySQL. Developed and maintained dynamic web applications and improved database performance.**  
 
 ### 🛠️ Technical Skills
-- **Languages:** Python, PHP, JavaScript
+- **Languages:** Python, PHP, JavaScript, C++, C Programming, Core Java
 - **Frontend:** HTML, CSS, JSP
 - **Backend:** Node.js, PHP
-- **Databases:** MySQL
+- **Databases:** MySQL, Oracle, DBMS
 - **Data Visualization:** Microsoft Power BI (AI dashboards)
 - **Tools:** Git, GitHub, VS Code, Tomcat
 
