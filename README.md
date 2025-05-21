@@ -55,8 +55,8 @@
   [View Certification](https://my.newtonschool.co/course/mowly8mvemrn/certificate/n6l712ajb9nj/verify?utm_source=certification&utm_medium=barnwaldivyanka&utm_campaign=ds-workshop)
 
 ### 📄 View or Download My Resume (PDF)
-- 👀 [**View Resume** (opens in browser)](https://github.com/Divyanka-20/Divyanka-Barnwal/blob/main/Divyanka_Barnwal_Resume.pdf)  
-- 📥 [**Download Resume** (direct download)](https://github.com/Divyanka-20/Divyanka-Barnwal/raw/main/Divyanka_Barnwal_Resume.pdf)
+- 👀 [**View Resume** (opens in browser)](https://github.com/Divyanka-20/Divyanka-Barnwal/blob/main/Divyanka_Barnwal_Resume_1.pdf)  
+- 📥 [**Download Resume** (direct download)](https://github.com/Divyanka-20/Divyanka-Barnwal/raw/main/Divyanka_Barnwal_Resume_1.pdf)
   
 ### 📈 GitHub Stats
 <p align="center">
