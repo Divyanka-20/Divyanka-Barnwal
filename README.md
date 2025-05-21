@@ -8,15 +8,15 @@
 - ⚡ Fun fact: Passionate about merging technology and nature 🌿
 
 ### 💼 Experience
-  ### 👩‍💻 Project Intern
-  - **Joint CSR Initiative of Microsoft & SAP – TechSaksham Program**
-  📅 Dec 2024 – Feb 2025 · 3 months
-  📍 Remote
-  Internship | Technology & Skill Development Program
-  - Contributed to web-based projects focusing on Database Management Systems (DBMS), Python,   
-    and software development fundamentals.
-  - Applied skills in PHP, JavaScript, and MySQL to build interactive web pages and optimize 
-    backend data operations.
+  - **👩‍💻 Project Intern**
+    - **Joint CSR Initiative of Microsoft & SAP – TechSaksham Program**
+    📅 Dec 2024 – Feb 2025 · 3 months
+    📍 Remote
+    Internship | Technology & Skill Development Program
+    - Contributed to web-based projects focusing on Database Management Systems (DBMS), Python,  
+      and software development fundamentals.
+    - Applied skills in PHP, JavaScript, and MySQL to build interactive web pages and optimize 
+      backend data operations.
 
 ### 🚀 Projects
 - **Indian Wildlife Portal**  
