@@ -2,7 +2,7 @@
 <h3 align="center">BCA Student | Web Developer | AI & Data Enthusiast from India</h3>
 
 - 🔭 Currently working on **Indian Wildlife Project** 
-- 🌱 Learning advanced **Node.js, PHP, MySQL**, and **AI integration with Power BI**
+- 🌱 Learning advanced **PHP, MySQL**, and **AI integration with Power BI**
 - 👯 Looking to collaborate on **web development**, **data visualization**, and **AI projects**
 - 📫 Reach me on LinkedIn: [Divyanka Barnwal](https://www.linkedin.com/in/divyanka-barnwal-71bb54292/)
 - ⚡ Fun fact: Passionate about merging technology and nature 🌿
