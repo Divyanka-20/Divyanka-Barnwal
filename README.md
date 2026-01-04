@@ -71,5 +71,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanka-20&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-### 📫 Connect with me
+### 📫 Connect with me :)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/divyanka-barnwal-71bb54292/)
